@@ -1,0 +1,5 @@
+# Build dependencies for MP3 Cevirici (PyInstaller only).
+# The application itself uses only the Python standard library.
+# Install with: py -m pip install -r requirements-build.txt
+
+pyinstaller>=6

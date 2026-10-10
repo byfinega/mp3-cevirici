@@ -1,0 +1,29 @@
+# Runtime artefacts (recreated by the app)
+indirilenler/
+*.mp3
+*.m4a
+*.webm
+*.mp4
+
+# Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+# PyInstaller build outputs
+dist/
+build/
+*.spec
+
+# Binaries are NOT committed.
+# Fetch yt-dlp / ffmpeg / deno from their official sources (see docs/kurulum.md).
+# Release zips are published via GitHub Releases, not the repo.
+*.exe
+
+# Virtual environments
+.venv/
+venv/
+
+# OS artefacts
+Thumbs.db
+.DS_Store

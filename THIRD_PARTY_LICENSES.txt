@@ -1,0 +1,37 @@
+ÜÇÜNCÜ TARAF BİLEŞENLER / THIRD-PARTY COMPONENTS
+====================================================
+Bu uygulama aşağıdaki üçüncü taraf araçlarla birlikte dağıtılır.
+Bu dosya, lisans uyumu için zorunlu atıf ve kaynak bilgilerini içerir.
+Binary'lerde değişiklik yapılmamıştır.
+
+1) yt-dlp
+------
+Sürüm: 2026.08.19
+Kaynak: https://github.com/yt-dlp/yt-dlp
+Lisans: The Unlicense (kamu malı / public domain)
+Lisans metni: LICENSE.yt-dlp.txt
+Değişiklik: Yok (resmi yapım aynen dağıtılır).
+
+2) FFmpeg
+------
+Sürüm: 8.1.1-essentials_build-www.gyan.dev
+Kaynak: https://ffmpeg.org / yapım: https://www.gyan.dev/ffmpeg/builds/
+Lisans: GNU General Public License v3 (GPLv3)
+        (essentials_build, x264 gibi GPL bileşenler içerir;
+         bu yüzden tüm yapım GPLv3 kapsamındadır.)
+Lisans metni: COPYING.GPLv3.txt
+Değişiklik: Yok (resmi yapım aynen dağıtılır).
+FFmpeg kaynak kodu: https://ffmpeg.org/download.html
+
+3) Deno
+------
+Sürüm: 2.8.0
+Kaynak: https://github.com/denoland/deno
+Lisans: MIT License (Copyright 2018-2026 the Deno authors)
+Lisans metni: LICENSE.deno.md
+Değişiklik: Yok (resmi yapım aynen dağıtılır).
+
+KULLANIM UYARISI
+----------------
+Bu uygulama yalnızca haklarına sahip olduğunuz veya indirme izni
+verilen içerikler için kullanılmalıdır.
