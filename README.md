@@ -1,4 +1,4 @@
-# MP3 Çevirici | byfinega
+# MP3 Çevirici 
 
 Video ve playlist adreslerindeki sesi **MP3'e çevirip indiren** Türkçe masaüstü uygulaması.
 
@@ -8,7 +8,7 @@ Video ve playlist adreslerindeki sesi **MP3'e çevirip indiren** Türkçe masaü
 
 - Tek parça veya playlist'in tamamını indirme
 - MP3 kalite seçimi: 128 / 192 / 320 kbps
-- MP3'lere başlık bilgisi otomatik gömülür (kapak resmi gömülmez)
+- MP3'lere başlık bilgisi otomatik gömülür
 - Tekrar indirilen bağlantılar arşiv dosyaları sayesinde atlanır
 - Giriş isteyen içerikler için Firefox (önerilen) çerez desteği
 
@@ -47,8 +47,7 @@ MP3Cevirici.exe
 yt-dlp.exe
 ffmpeg.exe
 deno.exe
-README.md
-THIRD_PARTY_LICENSES.txt + lisans metinleri
+THIRD_PARTY_LICENSES.txt
 ```
 
 `indirilenler/` klasörü ilk indirmede otomatik oluşur.
